@@ -3,7 +3,7 @@
 ## Description
 Human-machine dialogue interaction textual data, 13 million groups in total. The data is interaction text between the user and the robot. Each line represents a set of interaction text, separated by '|'; this data set can be used for natural language understanding, knowledge base construction etc.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/249?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1249?source=Github
 
 
 # Specifications
